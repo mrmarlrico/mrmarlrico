@@ -10,5 +10,5 @@
 
 🌐 I'm eager to contribute to more open-source projects and collaborate with other developers. If you have a project I might be interested in, feel free to reach out!
 
-🌐 LinkedIn: [Marl Kristoffer Rico](https://www.linkedin.com/in/marl_kristoffer_rico/)
+🌐 LinkedIn: [Marl Kristoffer Rico](https://www.linkedin.com/in/marl-kristoffer-rico/)
 📧 Email: mrmarlrico@gmail.com
